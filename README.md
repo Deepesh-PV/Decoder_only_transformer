@@ -21,3 +21,15 @@ It features self-attention and trains on a tiny dataset of 7 input-output pairs 
     Designed to overfit quickly so you can observe the learning process.
 
     Dataset can easily be expanded for larger experiments.
+
+📈 Future Improvements
+
+    Add multi-head self-attention (currently single-head for simplicity).
+
+    Extend to bigger datasets or more complex sequence generation tasks.
+
+    Experiment with different optimizers, schedulers, and loss functions.
+
+    Add beam search or sampling for better sequence decoding.
+
+![Made with PyTorch](https://img.shields.io/badge/Made%20with-PyTorch-red)
